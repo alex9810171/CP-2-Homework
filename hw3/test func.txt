@@ -1,0 +1,23 @@
+void test(){
+    printf("num=%d\n",num);
+    printf("\nname:\n");
+    for(i=0;i<num;i++)printf("%s\n",name[i]);
+    printf("\ntable:\n");
+    for(i=0;i<num;i++){
+        for(j=0;j<37;j++)printf("%d ",table[i][j]);
+        printf("\n");
+    }
+    printf("\nlike:\n");
+    for(i=0;i<num;i++){
+        for(j=0;j<16;j++)printf("%d ",like[i][j]);
+        printf("\n");
+    }
+    printf("\npre:\n");
+    for(i=0;i<num;i++){
+        for(j=0;j<3;j++)printf("%s ",pre[i][j]);
+        printf("\n");
+    }
+    printf("\nstyle:\n");
+    for(i=0;i<20;i++)printf("%s ",style[i]);
+    printf("\n");
+}

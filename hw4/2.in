@@ -1,0 +1,14 @@
+4
+- A B C D 
+A 0 20 40 80
+B 20 0 30 60
+C 40 30 0 50
+D 80 60 50 0
+2 1
+6
+Jim D A
+Ken C A
+Ben D B
+Tom A D
+John A B
+Ann C D

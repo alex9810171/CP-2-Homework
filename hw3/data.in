@@ -1,0 +1,41 @@
+10
+A
+Male
+charm time affluence
+time 50 intelligence 80 charm 90 talent 30 honesty 50 affluence 80
+B
+Male
+affluence intelligence charm
+talent 80 honesty 70 affluence 80 time 60 intelligence 90 charm 40
+C
+Male
+honesty talent time
+honesty 50 charm 30 affluence 80 intelligence 40 talent 70 time 60
+D
+Male
+talent charm intelligence
+talent 30 honesty 20 time 40 affluence 50 intelligence 60 charm 80
+E
+Male
+intelligence affluence honesty
+charm 40 time 60 talent 50 intelligence 20 honesty 70 affluence 70
+aa
+Female
+talent charm honesty
+intelligence 50 charm 40 honesty 60 affluence 70 talent 80 time 30
+bb
+Female
+honesty talent intelligence
+charm 30 talent 60 honesty 80 affluence 70 time 60 intelligence 90
+cc
+Female
+time talent charm
+charm 50 time 30 talent 80 intelligence 60 honesty 70 affluence 40
+dd
+Female
+talent honesty time
+time 10 talent 80 honesty 50 intelligence 50 affluence 40 charm 20
+ee
+Female
+affluence talent charm
+honesty 60 charm 30 affluence 40 intelligence 80 talent 70 time 20

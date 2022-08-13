@@ -1,0 +1,13 @@
+3
+- A B C
+A - 10 30
+B 10 - 15
+C 30 15 -
+2
+2 2
+5
+Anna A B -1
+Brian A C *2
+Claire B C *2
+Dora C A -4
+Ella B A -3

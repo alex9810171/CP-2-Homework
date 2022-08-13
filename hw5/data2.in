@@ -1,0 +1,14 @@
+4
+- A B C D
+A - 10 20 30
+B 10 - 10 25
+C 20 10 - 15
+D 30 25 15 -
+2
+2 2
+5
+Anna A D *2
+Ben A B *2
+Candy C D -1
+David C B -3
+Elsa D B -5

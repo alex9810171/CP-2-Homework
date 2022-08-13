@@ -1,0 +1,20 @@
+5
+- A B C D E
+A - 10 20 30 50
+B 10 - 15 25 40
+C 20 15 - 15 35
+D 30 25 15 - 30
+E 50 40 35 30 -
+2
+2 3
+10
+Anna A B -2
+Ben C D -1
+Candy B E *3
+David B D *2
+Elsa A C -1
+Fred A D -6
+Gina D E *2
+Harry C E -5
+Irene C D *4
+Jack B C *3

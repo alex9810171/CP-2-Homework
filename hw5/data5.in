@@ -1,0 +1,18 @@
+3
+- a b c
+a - 100 200
+b 100 - 150
+c 200 150 -
+2
+2 4
+10
+Apple a c *4
+Banana b c *4
+Cherry b a *3
+Donut c a *4
+Egg a b *4
+Fish b c *2
+Grape a c -8
+Honey b c -5
+Ice c a -1
+Juice b a *3
